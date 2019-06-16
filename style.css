@@ -1,4 +1,4 @@
-  *
+   *
         {
             margin:0;
             padding:0;
@@ -117,10 +117,7 @@
             width:60px;
           font-size:10px;
             height: 20px;
-            border-radius: 100px;
-            border: 1px solid grey;
-            text-align: center;
-            float: right;
+          
         }
          
         }
