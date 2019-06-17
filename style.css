@@ -85,9 +85,10 @@ img {
 @media (max-width:600px)
 {
 
-    #game-name {
+    #game-name
+    {
     font-size:50px;
-    margin:30px 0;
+    margin:50px 0;
 }
 
 #label {
