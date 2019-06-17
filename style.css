@@ -15,7 +15,7 @@
     background: -webkit-linear-gradient(35deg, #24c6dc, #514a9d);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    padding:25px 0;
+    margin:30px 0;
 }
 
 #label {
@@ -85,10 +85,9 @@ img {
 @media (max-width:600px)
 {
 
-    #game-name
-    {
+    #game-name {
     font-size:50px;
-    padding:25px 0;
+      padding:25px 0;
 }
 
 #label {
