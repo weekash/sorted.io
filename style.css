@@ -6,7 +6,6 @@
 #container {
     display: block;
     text-align: center;
-    margin:20px 0;
 }
 
 #game-name {
@@ -16,7 +15,7 @@
     background: -webkit-linear-gradient(35deg, #24c6dc, #514a9d);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    margin:30px 0;
+    padding:25px 0;
 }
 
 #label {
