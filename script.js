@@ -110,7 +110,7 @@ function gen() {
         for (var i = 0; i < nop; i++) {
 
             if (players[i] == max) {
-                document.getElementById("win").innerHTML = "PLAYER " + (i + 1) + " wins this round";
+                document.getElementById("rwin").innerHTML = "PLAYER " + (i + 1) + " wins this round";
                 pscore[i]++;
 
             }
